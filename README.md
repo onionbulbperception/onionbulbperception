@@ -9,4 +9,4 @@ Sometimes I push buttons. :put_litter_in_its_place:
 
 <h2> :hammer: Some Tools I'm Learning Next</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python)](https://skillicons.dev)
